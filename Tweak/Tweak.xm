@@ -169,6 +169,7 @@ void setDefaultBlacklistedApps() {
         @"com.christianselig.Apollo",
         @"ph.telegra.Telegraph",
         @"com.reddit.Reddit",
+        @"com.tencent.qy.xin",
 
         //gesture conflicts
         @"com.spotify.client", //adding song to the queue
